@@ -33,10 +33,6 @@ Beyond philosophy, the benefit is **practical rhythm**: batching outreach during
 
 ---
 
-![Cycle & Focus Map](https://static.macupdate.com/screenshots/115489/m/tattvaclock-screenshot.png?v=1643959840)
-
----
-
 ## ℹ️ About (Deep Dive)
 
 **Anchoring & Astronomy.** TattvaClock computes **sun events** (civil/nautical/astronomical sun angles when needed) to place dawn, sunrise, solar noon, sunset, and dusk. Cycles expand or contract through the year, so morning segments are longer in summer and tighter in winter. This keeps habits aligned to **available light**—a core principle of traditional day planning.
