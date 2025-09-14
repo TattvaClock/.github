@@ -72,12 +72,6 @@ Beyond philosophy, the benefit is **practical rhythm**: batching outreach during
 
 ---
 
-![Compact Panel](https://static.macupdate.com/screenshots/320745/m/inerziathings-screenshot.png?v=1638178116)
-
-> *Note: image above is illustrative for layout density. Use TattvaClock’s own ring/panels in your screenshots.*
-
----
-
 ## 🧭 Scheduling Patterns (Examples)
 
 - **Maker schedule:** 90-minute deep work blocks bound to “refine/build” cycles; outreach during expressive cycles; movement during kinetic cycles.  
